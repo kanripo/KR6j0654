@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:08.826256
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 佛說却溫黃神咒經
 #+PROPERTY: CBETA_ID X02n0193
 #+PROPERTY: ID KR6j0654
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 02, No. 193
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0654_X_001-0860c> 
 #+PROPERTY: JUAN 1
-No.193¶
-
- 佛說却溫黃神呪經¶
+No. 193¶
+佛說却溫黃神呪經¶
 
 聞如是一時佛遊王舍城竹林精舍與四部弟子大¶
 眾俱會為說經法爾時維耶離國屬疫氣猛盛赫赫¶
@@ -25,7 +24,7 @@ No.193¶
 無佛陀耶南無達磨耶南無僧伽耶南無十方諸佛¶
 南無諸菩薩摩訶薩南無諸聖僧南無呪師(某甲)今我¶
 弟子所說神呪即從其願如是神名我今當說沙羅¶
-佉三說沙羅佉已便說呪曰。¶
+佉三說沙羅佉巳便說呪曰。¶
 
   
   * 夢多難鬼
