@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:08.826256
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 佛說却溫黃神咒經
 #+PROPERTY: CBETA_ID X02n0193
 #+PROPERTY: ID KR6j0654
